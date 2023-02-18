@@ -126,6 +126,10 @@
   margin-top: 0;
 }
 
+.avatar-user {
+  border-radius: 50% !important;
+}
+
 @media (max-width: 1380px) {
   .contact-heading-text {
     font-size: 50px;

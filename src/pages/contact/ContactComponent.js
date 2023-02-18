@@ -28,6 +28,7 @@ class Contact extends Component {
                 <img
                   src={require(`../../assests/images/${ContactData["profile_image_path"]}`)}
                   alt=""
+                  className="avatar-user"
                 />
               </div>
               <div className="contact-heading-text-div">
