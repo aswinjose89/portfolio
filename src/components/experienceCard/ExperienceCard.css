@@ -8,6 +8,8 @@
 
 .experience-card-logo-div {
   margin: 10px;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .experience-card-body-div {
@@ -21,6 +23,7 @@
 
 .experience-card-logo {
   width: 70px;
+  border-radius: 20%;
 }
 
 .experience-card-title {

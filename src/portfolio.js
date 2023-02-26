@@ -129,9 +129,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building responsive website with mean stack(Angular 11, AngularJS, Nodejs 14, socket.js, mongoDB, Emberjs, Chrome Web Indexed DB)",
+        "⚡ Developing full-stack distributed applications using Django, Angular, Kafka, Apache Flink, ElasticSearch, Sqlite, mysql and DotNet",
+        "⚡ Creating application backend in Nodejs, Django & Dotnet",
       ],
       softwareSkills: [
         {
@@ -352,8 +352,8 @@ const degrees = {
     {
       title: "Anna University",
       subtitle: "B.E. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
+      logo_path: "Anna_University_Logo.png",
+      alt_name: "Anna University",
       duration: "2007 - 2011",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
@@ -365,9 +365,9 @@ const degrees = {
     {
       title: "Anna University",
       subtitle: "M.E. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
+      logo_path: "Anna_University_Logo.png",
+      alt_name: "Anna University",
+      duration: "2015 - 2017",
       descriptions: [
         "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
         "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
@@ -496,45 +496,56 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked with many MNC companies as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
+          title: "Member Of Technical Staff",
+          company: "GlobalFoundries",
+          company_url: "https://gf.com/",
+          logo_path: "gf_logo.png",
+          duration: "Nov 2017 - Jul 2021",
+          location: "Woodlands, Singapore",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "Leading Global development team, design software architect, system design & manage monthly/quarterly release. Developed internal tool for semiconductor industry to manipulate design rules of wafer and chiplets. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Migrated legacy system to latest version with AI integration to auto-detect flaws from customer rules.",
           color: "#0879bf",
         },
         {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
+          title: "Technology Consultant",
+          company: "Virtusa",
+          company_url: "https://www.virtusa.com/",
+          logo_path: "virtusa.png",
+          duration: "Oct 2016 - Nov 2017",
+          location: "Bangsar South, Malaysia",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "Working for standard chartered bank in a client place and we developed an application platform for all client-facing staff to manage their client relationships and perform activities on behalf of their clients. ",
           color: "#9b1578",
         },
         {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
+          title: "Software Engineering Team Lead",
+          company: "Accenture Services Pvt Ltd.",
+          company_url: "https://www.accenture.com/us-en",
+          logo_path: "accenture_logo.png",
+          duration: "Sept 2014 - Oct 2016",
+          location: "Chennai, India",
           description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+            "Freight Management System will support all operational activities of the ILS freight forwarding, consolidation and deconsolidation business and will be tightly integrated with other applications, such as REMODEL applications, legacy applications and APLL enterprise applications.",
           color: "#fc1f20",
         },
+        {
+          title: "ASP.net Programmer",
+          company: "Swathi Soft Solutions",
+          company_url: "https://www.accenture.com/us-en",
+          logo_path: "swathi_log.png",
+          duration: "April 2013 - July 2014",
+          location: "Chennai, India",
+          description:
+            "Warehouse management system which is a Middle-Ware application interact between International organizations(SAP,MARIS,SUPPLIER PORTAL(SP) and MANHATTAN).Our Layer will communicate between multiple datasource type like XML(MANHATTAN) to text file(SAP,MARIS,SUPPLIER PORTAL(SP)) and vice-versa",
+          color: "#fc1f20",
+        }
       ],
     },
     {
