@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89b8e6fec5b4a68a0f25d777ef3aba36",
+    "revision": "8c1feaccbf25993b98108db76304fc48",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "32db93447317ebb5a2c5",
-    "url": "/portfolio/static/css/main.ac4aba05.chunk.css"
+    "revision": "b6da604ae95fcf8d87cd",
+    "url": "/portfolio/static/css/main.814f4d98.chunk.css"
   },
   {
-    "revision": "9c49e2383c00e769ccde",
-    "url": "/portfolio/static/js/2.5a5fcf8e.chunk.js"
+    "revision": "57e59c6236358405e0e2",
+    "url": "/portfolio/static/js/2.9205f1be.chunk.js"
   },
   {
-    "revision": "32db93447317ebb5a2c5",
-    "url": "/portfolio/static/js/main.0348d562.chunk.js"
+    "revision": "b6da604ae95fcf8d87cd",
+    "url": "/portfolio/static/js/main.b526ad36.chunk.js"
   },
   {
     "revision": "715110702c109a23bf4b",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/portfolio/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "d589cd7263ba830b173a92f1742ef124",
+    "url": "/portfolio/static/media/Anna_University_Logo.d589cd72.png"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -50,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "6b5c4f7da7b5090b631194b3865cfb08",
+    "url": "/portfolio/static/media/accenture_logo.6b5c4f7d.png"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
@@ -248,6 +256,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/stanford_logo.2c497738.png"
   },
   {
+    "revision": "5e63a6ffa27d2e1b1d414686ef1d9204",
+    "url": "/portfolio/static/media/swathi_log.5e63a6ff.png"
+  },
+  {
     "revision": "6ac91b161c2c9934a44f72d75d18142d",
     "url": "/portfolio/static/media/talksCardBack.6ac91b16.svg"
   },
@@ -262,5 +274,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "/portfolio/static/media/ui_ux_design.d6363089.svg"
+  },
+  {
+    "revision": "814548e793500965ac19c245d4c916e8",
+    "url": "/portfolio/static/media/virtusa.814548e7.png"
   }
 ]);

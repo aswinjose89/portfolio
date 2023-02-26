@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ac4aba05.chunk.css",
-    "main.js": "/portfolio/static/js/main.0348d562.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.0348d562.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.814f4d98.chunk.css",
+    "main.js": "/portfolio/static/js/main.b526ad36.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b526ad36.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.9139f6d7.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.9139f6d7.js.map",
-    "static/js/2.5a5fcf8e.chunk.js": "/portfolio/static/js/2.5a5fcf8e.chunk.js",
-    "static/js/2.5a5fcf8e.chunk.js.map": "/portfolio/static/js/2.5a5fcf8e.chunk.js.map",
+    "static/js/2.9205f1be.chunk.js": "/portfolio/static/js/2.9205f1be.chunk.js",
+    "static/js/2.9205f1be.chunk.js.map": "/portfolio/static/js/2.9205f1be.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.6e8a19ff880d1fff6ed499e118e6846d.js": "/portfolio/precache-manifest.6e8a19ff880d1fff6ed499e118e6846d.js",
+    "precache-manifest.d636e03fb3e58a5ce830e0b889af54f6.js": "/portfolio/precache-manifest.d636e03fb3e58a5ce830e0b889af54f6.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.ac4aba05.chunk.css.map": "/portfolio/static/css/main.ac4aba05.chunk.css.map",
+    "static/css/main.814f4d98.chunk.css.map": "/portfolio/static/css/main.814f4d98.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Anna_University_Logo.png": "/portfolio/static/media/Anna_University_Logo.d589cd72.png",
+    "static/media/accenture_logo.png": "/portfolio/static/media/accenture_logo.6b5c4f7d.png",
     "static/media/address_image.svg": "/portfolio/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/portfolio/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/portfolio/static/media/animated_logo.dcd6dee2.svg",
@@ -47,15 +49,17 @@
     "static/media/projects_image.svg": "/portfolio/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/portfolio/static/media/pwa.71408db7.png",
     "static/media/stanford_logo.png": "/portfolio/static/media/stanford_logo.2c497738.png",
+    "static/media/swathi_log.png": "/portfolio/static/media/swathi_log.5e63a6ff.png",
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/portfolio/static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "/portfolio/static/media/tiktok_logo.0993e324.png",
-    "static/media/ui_ux_design.svg": "/portfolio/static/media/ui_ux_design.d6363089.svg"
+    "static/media/ui_ux_design.svg": "/portfolio/static/media/ui_ux_design.d6363089.svg",
+    "static/media/virtusa.png": "/portfolio/static/media/virtusa.814548e7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9139f6d7.js",
-    "static/js/2.5a5fcf8e.chunk.js",
-    "static/css/main.ac4aba05.chunk.css",
-    "static/js/main.0348d562.chunk.js"
+    "static/js/2.9205f1be.chunk.js",
+    "static/css/main.814f4d98.chunk.css",
+    "static/js/main.b526ad36.chunk.js"
   ]
 }
